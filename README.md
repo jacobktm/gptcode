@@ -4,7 +4,7 @@ GPT model based code analysis
 ## Setup
 
 ```
-sudo apt install docker.io nvidia-container-toolkit python3-pip
+sudo apt install docker.io nvidia-container-toolkit
 sudo usermod -aG docker $USER
 mkdir ../model
 mkdir ../data
